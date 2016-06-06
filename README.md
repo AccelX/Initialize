@@ -1,2 +1,5 @@
 # Initialize
-๋Just another
+
+Hello!
+
+This is first time of usage Github.
